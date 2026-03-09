@@ -31,14 +31,6 @@
 | [MYGPT — AI Chatbot](https://github.com/aniketramteke06/MyGPT-chatbot--like-ChatGPT) | Full-stack AI chatbot with OpenAI GPT API | MERN, OpenAI API, JWT |
 | [SwiftRescue — IoT GPS Alert](https://github.com/aniketramteke06) | Real-time emergency alert system with GPS | Arduino, C++, IoT |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketramteke06&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketramteke06&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
