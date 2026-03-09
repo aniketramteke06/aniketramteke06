@@ -6,7 +6,7 @@
 🎓 Final-year B.Tech IT student at YCCE Nagpur (CGPA: 7.42)  
 💼 Currently interning as .NET Developer at NRSolution4u  
 🚀 Built an AI Chatbot (OpenAI + MERN) & IoT GPS Emergency Alert System  
-🌐 Portfolio: [aniketramteke06.github.io](https://aniketramteke06.github.io)  
+🌐 Portfolio: [aniketramteke06.github.io](https://aniketramteke06.github.io/aniketramteke.github.io/)  
 📫 Reach me: aniketramteke310724@gmail.com  
 
 ---
@@ -44,5 +44,5 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-ramteke)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://aniketramteke06.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketramteke7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://aniketramteke06.github.io/aniketramteke.github.io/)
